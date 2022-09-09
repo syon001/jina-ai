@@ -1,1 +1,1 @@
-# jina-ai
+# jina-ai-certificates
